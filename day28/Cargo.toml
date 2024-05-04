@@ -1,0 +1,9 @@
+[package]
+name = "day28"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+modql = { version = "0.3.10", features = ["with-sea-query"] }
+sea-query = "0.31.0-rc"
+sea-query-binder = { version = "0.6.0-rc", features = ["sqlx-postgres", "with-uuid", "with-time" ] }
