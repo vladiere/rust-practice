@@ -1,7 +1,3 @@
-Creating a README.md file for Rust practice covering day 1 to day 27 can provide a structured plan and guidance for:w learners. Here's a suggestion for the content:
-
----
-
 # Rust Practice Plan: Day 1 to Day 27
 
 Welcome to your Rust practice journey! This guide will walk you through daily exercises and concepts to help you master Rust programming in just 27 days. Each day, you'll focus on specific topics, challenges, and projects to reinforce your learning.
